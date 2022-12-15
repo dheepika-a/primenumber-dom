@@ -1,0 +1,42 @@
+.styl
+{
+	background-color:yellowgreen;
+	height:20px;
+	text-align:center;
+	padding:10px;
+	
+	
+}
+.home
+{
+	text-align:center;
+	margin-top:20px;
+	background-color:crimson;
+	
+}
+.mystyle
+{
+	background-color:lightpink;
+	height:70px;
+	width:250px;
+	border:5px solid deepskyblue;
+	
+}
+.but
+{
+background-color:seagreen;	
+	height:30px;
+	width:80px;
+	border:2px solid pink;
+	
+}
+
+.add
+{
+	background-color:turquoise;
+	height:30px;
+	margin-top:50px;
+	width:23%;
+	text-align:center;
+	margin-left:590px;
+}
